@@ -1,2 +1,2 @@
 # rco
-test
+just launch exe
